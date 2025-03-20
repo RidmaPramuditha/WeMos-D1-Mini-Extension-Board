@@ -1,9 +1,9 @@
 /*
   WeMos D1 Mini buzzer
 
-  This example shows how to Blink LED
+  This example shows how to buzzer
   The circuit:
-  LED attached to WeMos D1 Mini Extension Board as follows:
+  buzzer attached to WeMos D1 Mini Extension Board as follows:
  ** Buzzer Positive - pin D5 (GPIO 14)
 
   created   March 2025
