@@ -1,9 +1,9 @@
 /*
   WeMos D1 Mini Relay
 
-  This example shows how to Blink LED
+  This example shows Relay Control 
   The circuit:
-  LED attached to WeMos D1 Mini Extension Board as follows:
+  Relay attached to WeMos D1 Mini Extension Board as follows:
   ** Relay - pin D7 (GPIO 13)
 
   created   June 2025
