@@ -6,18 +6,6 @@ Innovation-Based Learning (IBL) is a powerful teaching method that helps student
 
 To address this challenge, a low-cost, beginner-friendly IoT development board was created. This custom platform is designed to minimize hardware damage during learning, reduce cost, and maximize hands-on opportunities.
 
-## 📈 Educational Value
-Encourages creativity, experimentation, and problem-solving.
-
-Reduces fear of hardware damage during trial-and-error learning.
-
-Helps students understand full-stack IoT concepts—from sensors to coding to deployment.
-
-Enables a scalable, inclusive model for hybrid STEM education.
-
-## 🧪 Conclusion
-This development board removes key barriers to hands-on STEM education, making Innovation-Based Learning more practical, accessible, and affordable. It empowers students—especially in developing regions—to learn, create, and innovate confidently using real technology.
-
 ## Specifications:
 
 - Digital and analog pins are accessible via screw terminals for easy connections.
@@ -29,6 +17,15 @@ This development board removes key barriers to hands-on STEM education, making I
 - Built-in buzzer for alerts or notifications.
 - Plug-and-play WeMos D1 module connector for easy compatibility.
 - Effortless installation of WeMos D1 Mini and OLED modules with plugable connectors.
+
+## 📈 Educational Value
+- Encourages creativity, experimentation, and problem-solving.
+- Reduces fear of hardware damage during trial-and-error learning.
+- Helps students understand full-stack IoT concepts—from sensors to coding to deployment.
+- Enables a scalable, inclusive model for hybrid STEM education.
+
+## 🧪 Conclusion
+This development board removes key barriers to hands-on STEM education, making Innovation-Based Learning more practical, accessible, and affordable. It empowers students—especially in developing regions—to learn, create, and innovate confidently using real technology.
 
 ## Parts
 
