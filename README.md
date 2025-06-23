@@ -29,6 +29,6 @@ This development board removes key barriers to hands-on STEM education, making I
 
 ## Parts
 
-|   Name    |  Aliexpress  |
+|   Name    |  Mercury LABS (Sri Lanka)  |
 |   ------- | ------------  |
 | WeMos D1 Mini Extension Board | [https://bit.ly/3c9K7FP](https://bit.ly/44lEmwy) |
