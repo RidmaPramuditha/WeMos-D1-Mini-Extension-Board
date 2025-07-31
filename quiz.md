@@ -49,6 +49,7 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
    d) @value  
 
 7. What will the following Python code output? 
+
    print(3 * '7')
 
    a) 21
@@ -56,21 +57,22 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
    c) Error
    d) 10
 
-8. Which keyword is used to define a function in Python?
+9. Which keyword is used to define a function in Python?
 
    a) define
    b) function
    c) def
    d) func
 
-9. What does a ‘for’ loop do?
+10. What does a ‘for’ loop do?
 
    a) Repeats code a set number of times
    b) Executes code indefinitely
    c) Defines a function
    d) Stops program execution
 
-10. What is the output of the following code?
+11. What is the output of the following code?
+
 x = 5  
 x += 2  
 print(x)
