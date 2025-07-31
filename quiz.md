@@ -44,31 +44,31 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
 
 7. What will the following Python code output? 
    print(3 * '7')
-a) 21
-b) 777
-c) Error
-d) 10
+   a) 21
+   b) 777
+   c) Error
+   d) 10
 
 8. Which keyword is used to define a function in Python?
-a) define
-b) function
-c) def
-d) func
+   a) define
+   b) function
+   c) def
+   d) func
 
 9. What does a ‘for’ loop do?
-a) Repeats code a set number of times
-b) Executes code indefinitely
-c) Defines a function
-d) Stops program execution
+   a) Repeats code a set number of times
+   b) Executes code indefinitely
+   c) Defines a function
+   d) Stops program execution
 
 10. What is the output of the following code?
 x = 5  
 x += 2  
 print(x)
-a) 5
-b) 7
-c) 2
-d) Error
+   a) 5
+   b) 7
+   c) 2
+   d) Error
 
 ## Section C: Arduino, Wemos D1, and NodeMCU (10 marks)
 
@@ -102,7 +102,7 @@ d) Error
     c) 9600  
     d) 115200  
 
-16. **Which pin on NodeMCU is typically used for built-in LED (D4)?**  
+16. Which pin on NodeMCU is typically used for built-in LED (D4)?
     a) GPIO16  
     b) GPIO2  
     c) GPIO4  
