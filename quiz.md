@@ -57,7 +57,7 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
    c) Error
    d) 10
 
-9. Which keyword is used to define a function in Python?
+8. Which keyword is used to define a function in Python?
 
 
    a) define
@@ -65,7 +65,7 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
    c) def
    d) func
 
-11. What does a ‘for’ loop do?
+9. What does a ‘for’ loop do?
 
    
    a) Repeats code a set number of times
@@ -73,12 +73,11 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
    c) Defines a function
    d) Stops program execution
 
-11. What is the output of the following code?
+10. What is the output of the following code?
 
-x = 5  
-x += 2  
-print(x)
-
+   x = 5  
+   x += 2  
+   print(x)
    
    a) 5
    b) 7
