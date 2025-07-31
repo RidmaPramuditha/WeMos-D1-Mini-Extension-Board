@@ -59,13 +59,15 @@ This quiz is designed to assess participants’ baseline knowledge for group bal
 
 9. Which keyword is used to define a function in Python?
 
+
    a) define
    b) function
    c) def
    d) func
 
-10. What does a ‘for’ loop do?
+11. What does a ‘for’ loop do?
 
+   
    a) Repeats code a set number of times
    b) Executes code indefinitely
    c) Defines a function
@@ -77,6 +79,7 @@ x = 5
 x += 2  
 print(x)
 
+   
    a) 5
    b) 7
    c) 2
