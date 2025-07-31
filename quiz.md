@@ -70,3 +70,71 @@ b) 7
 c) 2
 d) Error
 
+## Section C: Arduino, Wemos D1, and NodeMCU (10 marks)
+
+11. Which programming language is primarily used to program Arduino boards?
+    a) Python  
+    b) C++  
+    c) Java  
+    d) Assembly  
+
+12. Which USB port type is commonly found on most Arduino Uno boards?
+    a) USB-C  
+    b) Micro USB  
+    c) Mini USB  
+    d) USB-A  
+
+13. Wemos D1 is based on which Wi-Fi chip?
+    a) ESP8266  
+    b) ATmega328P  
+    c) ESP32  
+    d) STM32  
+
+14. Which board has built-in Wi-Fi support?  
+    a) Arduino Uno  
+    b) NodeMCU  
+    c) Arduino Nano  
+    d) Arduino Mega  
+
+15. What is the default baud rate used in the Arduino Serial Monitor?
+    a) 2400  
+    b) 4800  
+    c) 9600  
+    d) 115200  
+
+16. **Which pin on NodeMCU is typically used for built-in LED (D4)?**  
+    a) GPIO16  
+    b) GPIO2  
+    c) GPIO4  
+    d) GPIO13  
+
+17. To upload code to a Wemos D1 board, which development environment is typically used? 
+    a) Arduino IDE  
+    b) Keil  
+    c) MPLAB X  
+    d) Code::Blocks  
+
+18. Which of the following statements is TRUE?
+    a) NodeMCU doesn’t support Wi-Fi  
+    b) Arduino Uno has more flash memory than NodeMCU  
+    c) Wemos D1 is not compatible with Arduino IDE  
+    d) ESP8266 is integrated into NodeMCU  
+
+19. Which function in Arduino code runs continuously after setup()?
+    a) setupLoop()  
+    b) run()  
+    c) execute()  
+    d) loop()  
+
+20. Which voltage is typically used to power NodeMCU via the `Vin` pin?
+    a) 3.3V  
+    b) 5V  
+    c) 9V  
+    d) 12V  
+
+
+
+### Scoring
+Each correct answer = 1 mark  
+**Grand Total = 30 marks (Sections A + B + C)**
+
